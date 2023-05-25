@@ -1,0 +1,136 @@
+<resources>
+    <string name="app_name">AppClienteSB</string>
+
+    <string-array name="li_opciones_comunicacion">
+        <!-- <item name="it_foro">FORO</item>-->
+        <item name="it_chat">CHAT</item>
+    </string-array>
+
+    <string-array name="li_opciones_evaluacion">
+        <!--<item name="it_encuesta">ENCUESTA</item>-->
+        <!--  <item name="it_leccion">LECCIÓN</item>-->
+        <item name="it_0">TAREA</item>
+    </string-array>
+
+    <string-array name="li_opciones_aprendizaje">
+        <item name="it_2">MATERIAL ESTUDIO</item>
+        <!--<item name="it_0">TAREA</item>-->
+    </string-array>
+
+    <string-array name="li_opciones_perfil">
+        <item name="it_0">DATOS PERSONALES</item>
+        <item name="it_1">MIS CURSOS</item>
+        <item name="it_2">HISTORIAL ACADÉMICO</item>
+        <item name="it_2">MENÚ PRINCIPAL</item>
+        <item name="it_2">SALIR</item>
+    </string-array>
+
+    <string-array name="strs_tip_users">
+        <item>Administrador</item>
+        <item>Profesor</item>
+        <item>Alumno</item>
+    </string-array>
+
+
+    <!--menu de opciones de profesor-->
+    <string-array name="li_opciones_comunicacion_prof">
+        <item name="it_chat">CHAT</item>
+    </string-array>
+
+    <string-array name="li_opciones_aprendizaje_prof">
+        <item name="it_2">MATERIAL ESTUDIO</item>
+        <item name="it_0">CREAR ASIGNACIONES</item>
+        <item name="it_0">VER TODAS LAS ASIGNACIONES</item>
+        <item name="it_0">VER ASIGNACIONES ENTREGADAS</item>
+        <item name="it_0">VER DIBUJOS</item>
+    </string-array>
+
+    <string-array name="li_opciones_perfil_prof">
+        <item name="it_0">DATOS PERSONALES</item>
+        <item name="it_1">MIS CURSOS</item>
+        <item name="it_1">HISTORIAL ACÁDEMICO</item>
+        <item name="it_2">SALIR</item>
+    </string-array>
+
+    <string-array name="li_opciones_perfil_juego">
+        <item name="it_0">DATOS PERSONALES</item>
+        <item name="it_1">MIS CURSOS</item>
+        <item name="it_2">SALIR</item>
+    </string-array>
+
+    <string-array name="li_opciones_perfil_prueba">
+        <item name="it_2">SALIR</item>
+    </string-array>
+
+    <string-array name="li_opciones_admin">
+        <item name="it_1">CREAR USUARIOS</item>
+        <item name="it_3">ACTUALIZAR USUARIOS</item>
+        <item name="it_2">SALIR</item>
+    </string-array>
+
+
+    <string-array name="li_op_juego1">
+        <item name="it_chat">Dibujo Varios</item>
+        <item name="it_chat">Dibujo Letras</item>
+    </string-array>
+
+    <string-array name="li_op_juego2">
+        <item name="it_chat">Palabra mal escrita en la frase</item>
+        <item name="it_chat">Palabra Correcta</item>
+    </string-array>
+
+    <string-array name="li_op_juego4">
+        <item name="it_chat">Cuentos preguntas</item>
+        <item name="it_chat">Cuentos palabras mal escritas</item>
+    </string-array>
+
+    <string-array name="li_optiones_crud">
+        <item name="it_chat">Descargar Archivo</item>
+        <item name="it_chat">Eliminar Archivo</item>
+    </string-array>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Nombre de la Escuela</string>
+    <string name="nav_header_subtitle">direccion de la escuela</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Salir</string>
+
+    <string name="menu_home">Principal</string>
+    <string name="menu_user">Usuarios</string>
+    <string name="menu_history">Historial</string>
+
+
+    <string name="btn_estudiante">Soy Profesor</string>
+    <string name="btn_profesor">Soy Estudiante</string>
+
+
+    <string name="txt_usuario">Usuario</string>
+    <string name="txt_pass">Contraseña</string>
+    <string name="txt_olvido">Olvidó su contraseña?</string>
+
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="btn_cancelar">Cancelar</string>
+
+    <string name="lbl_title">Easy Learning DIS</string>
+    <string name="lbl_mensaje_principal">Elige tu perfil para ingresar al sistema</string>
+
+    <string name="item_nosotros">Acerca de nosotros</string>
+    <string name="item_usuarios">Administrar Usuarios</string>
+    <string name="item_noticias">Noticias</string>
+
+    <string name="btn_guardar">Guardar</string>
+    <string name="chk_femenino">Femenino</string>
+    <string name="chk_masculino">Masculino</string>
+
+
+    <string name="btn_aula_vritual">Aula Virtual</string>
+    <string name="btn_juega_aprende">Juega y Aprende</string>
+
+    <string name="txt_nombre_titulo">Easy Learning</string>
+
+    <string name="title_activity_menu_estudiante_principal">MenuEstudiantePrincipal</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
